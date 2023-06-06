@@ -1,14 +1,7 @@
 {
-  "freelancers": [
+  "users": [
     {
-      "name": "fs",
-      "image": "fs",
-      "email": "sfs@fds",
-      "password": "fs",
-      "profession": "Web_Devloper",
-      "skills": "hfg",
-      "hourly_rate": "3",
-      "id": 1
+      
     }
   ]
 }
